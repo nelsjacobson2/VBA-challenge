@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+
 Sub RunStockData()
     Dim ws As Worksheet
     
